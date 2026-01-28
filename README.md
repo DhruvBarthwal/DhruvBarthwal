@@ -1,5 +1,5 @@
 # Hi 👋, I'm Dhruv Barthwal
-Fullstack Web Developer || DSA Enthusiast || Agentic AI Developer
+Fullstack Web Developer || DSA Enthusiast || Diving in Agentic AI
 
 
 ## 🌐 Socials:
